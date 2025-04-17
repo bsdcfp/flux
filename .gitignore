@@ -6,6 +6,9 @@
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
+*.png
+*.jpg
+src/flux/_version.py
 
 # KDE directory preferences
 .directory
